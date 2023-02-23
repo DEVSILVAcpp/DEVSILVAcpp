@@ -1,7 +1,7 @@
 ### Olá! Eu sou Josias Gabriel da Silva
 
 - 🔭 Procurando meu primeiro emprego
-- 🌱 Analista de Dados | Git | GitHub
+- 🌱 Git | GitHub
 - 📫 josiasjgs2003@gmail.com
 - 😄 Ele/Dele
 
