@@ -1,7 +1,7 @@
 ### Olá! Eu sou Josias Gabriel da Silva
 
 - 🔭 Procurando meu primeiro emprego
-- 🌱 Git | GitHub
+- 🌱 C | Git | GitHub
 - 📫 josiasjgs2003@gmail.com
 - 😄 Ele/Dele
 
