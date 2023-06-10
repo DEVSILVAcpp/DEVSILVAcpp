@@ -1,7 +1,7 @@
 ### Olá! Eu sou Josias Gabriel da Silva
 
 - 🔭 Procurando meu primeiro emprego
-- 🌱 Ciência de Dados | Análise de Dados
+- 🌱 --
 - 📫 josiasjgs2003@gmail.com
 - 😄 Ele/Dele
 
@@ -13,9 +13,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="DEVSILVAcpp-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="center" alt="DEVSILVAcpp-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="DEVSILVAcpp-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="DEVSILVAcpp-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="DEVSILVAcpp-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
