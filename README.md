@@ -1,7 +1,7 @@
 ### Olá! Eu sou Josias Gabriel da Silva
 
 - 🔭 Procurando meu primeiro emprego
-- 🌱 Cyber Security
+- 🌱 --
 - 📫 josiasjgs2003@gmail.com
 - 😄 Ele/Dele
 
