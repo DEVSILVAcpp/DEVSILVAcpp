@@ -1,7 +1,7 @@
 ### Olá! Eu sou Josias Gabriel da Silva
 
 - 🔭 Procurando meu primeiro emprego
-- 🌱 PHP | HTML | CSS | GitHub
+- 🌱 Analista de Dados | Análise de Dados
 - 📫 josiasjgs2003@gmail.com
 - 😄 Ele/Dele
 
