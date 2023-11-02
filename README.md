@@ -1,7 +1,7 @@
 ### Olá! Eu sou Josias Gabriel da Silva
 
 - 🔭 Procurando meu primeiro emprego
-- 🌱 Desenvolvedor Unity 
+- 🌱 Técnico em Informática
 - 📫 josiasjgs2003@gmail.com
 - 😄 Ele/Dele
 
